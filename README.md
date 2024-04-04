@@ -8,8 +8,11 @@ Web browsers provide the functionality to navigate back and forth between pages 
 <h3>Operations/Methods:</h3>
 
 visit_page( page ): Adds a visited page to the stack.
+
 back(): Moves to the previous page in the stack.
+
 forward(): Moves to the next page in the stack.
+
 current_page(): Returns the current page without changing the navigation state.
 
  <h4>Algorithms for Identified Methods:</h4>
