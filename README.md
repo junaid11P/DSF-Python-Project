@@ -1,4 +1,4 @@
-<h1>Here I will be adding my DSF assignment projects using python</h1>
+<h1>Here I will be adding my DSF assignments & projects using python</h1>
 <h2>1. <a href="Browser Simulator.py">Browser Simulator: Navigating History with Back and Forward Buttons</a></h2>
 <br>
 <br>
