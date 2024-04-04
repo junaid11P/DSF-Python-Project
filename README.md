@@ -1,5 +1,5 @@
 <h1>Here I will be adding my DSF assignment projects using python</h1>
-1. <a href="Browser Simulator.py">Browser Simulator:</a> Navigating History with Back and Forward Buttons
+1. <h2></h2><a href="Browser Simulator.py">Browser Simulator:</a> Navigating History with Back and Forward Buttons</h2>
 <br>
 <br>
 Web browsers provide the functionality to navigate back and forth between pages that a user has visited. This feature enhances user experience by allowing easy access to previously seen content without needing to retype URLs or use the search function. The ability to mimic this behavior requires tracking the sequence of visited pages and managing actions such as going back to a previous page or moving forward to a page that was visited before clicking back. Implementing this feature effectively necessitates the use of a data structure that can efficiently handle insertion and deletion operations, as well as sequential access to elements in a last-in, first-out (LIFO) manner. This problem statement focuses on creating a Python program that simulates the behavior of back and forward buttons in a browser using stack data structures.
